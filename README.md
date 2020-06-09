@@ -7,11 +7,11 @@ Includes three parts:
 (3) EV demand prediction
 
 2. Program Data
--> Data_crawiling \n
-    : crawl the basic information and historical visits of EV charging station in the state of Utah_location_id \n
--> address_to_coordinates \n
-    : Transform the EV locations' address to coordinates \n
--> basic_info_txt_to_csv_file \n
+-> Data_crawiling 
+    : crawl the basic information and historical visits of EV charging station in the state of Utah_location_id
+-> address_to_coordinates
+    : Transform the EV locations' address to coordinates
+-> basic_info_txt_to_csv_file
     : process the text file, extract info from it and transform to csv files
 -> Historical_visit_to_time_matrix_csv
     : process the text file (historical visit) to extract the visit_time-station ID A_matrix
