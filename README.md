@@ -9,16 +9,22 @@ Includes three parts:
 2. Program Code
 -> Data_crawiling
     : crawl the basic information and historical visits of EV charging station in the state of Utah_location_id
+
 -> address_to_coordinates
     : Transform the EV locations' address to coordinates
+
 -> basic_info_txt_to_csv_file
     : process the text file, extract info from it and transform to csv files
+
 -> Historical_visit_to_time_matrix_csv
     : process the text file (historical visit) to extract the visit_time-station ID A_matrix
+
 -> AP_Cluster
     : A toy example to show how to conduct AP Cluster algorithm
+
 -> ARIMA_toy_example
     : As name suggested.
+
 
 3. Data
 -> UTAH.rar: Include the raw basic information and historical visit text files for each charging station.
