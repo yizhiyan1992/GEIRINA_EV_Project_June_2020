@@ -1,0 +1,8 @@
+ClusterID,No_Sites,No_Stations,Level1,Level2,Level3,Tesla,Visits,Open_24,Open_not24,Open_unknown,Park_free,Park_pay,Park_unknown,hotel,recreation,service,shopping
+Cluster1,302,1001,16,301,16,13,3834,94,56,152,150,113,39,57,218,199,189
+Cluster2,154,299,0,154,1,0,2110,66,23,65,122,19,13,5,95,98,95
+Cluster3,72,160,1,72,2,0,1082,32,5,35,63,4,5,3,50,50,46
+Cluster4,54,99,0,54,1,0,375,26,4,24,49,1,4,4,40,35,38
+Cluster5,74,117,2,74,2,0,750,33,6,35,65,7,2,5,52,50,52
+Cluster6,28,51,0,28,1,0,346,15,3,10,22,1,5,1,19,18,17
+Cluster7,189,679,5,188,7,4,2651,92,22,75,92,73,24,43,137,131,123
